@@ -89,53 +89,7 @@
 		
 		</div><!--/.fluid-container-->
 	</div>
-	
-	<section class="extra">
-	  	<div class="container">
-			<div class="row">
-				<div class="col-md-3">
-					<h4>Heading 1</h4>
-					<ul>
-						<li><a href="#">Subheading 1.1</a></li>
-						<li><a href="#">Subheading 1.2</a></li>
-						<li><a href="#">Subheading 1.3</a></li>
-						<li><a href="#">Subheading 1.4</a></li>
-					</ul>
-				</div>
-				
-				<div class="col-md-3">
-					<h4>Heading 2</h4>
-					<ul>
-						<li><a href="#">Subheading 2.1</a></li>
-						<li><a href="#">Subheading 2.2</a></li>
-						<li><a href="#">Subheading 2.3</a></li>
-						<li><a href="#">Subheading 2.4</a></li>
-					</ul>
-				</div>
-				
-				<div class="col-md-3">
-					<h4>Heading 3</h4>	
-					<ul>
-						<li><a href="#">Subheading 3.1</a></li>
-						<li><a href="#">Subheading 3.2</a></li>
-						<li><a href="#">Subheading 3.3</a></li>
-						<li><a href="#">Subheading 3.4</a></li>
-					</ul>
-				</div>
-				
-				<div class="col-md-3">
-					<h4>Heading 4</h4>
-					<ul>
-						<li><a href="#">Subheading 4.1</a></li>
-						<li><a href="#">Subheading 4.2</a></li>
-						<li><a href="#">Subheading 4.3</a></li>
-						<li><a href="#">Subheading 4.4</a></li>
-					</ul>
-				</div>
-			</div> <!-- /row -->
-		</div> <!-- /container -->
-	</section>
-	
+		
 	<footer>
 		<div class="footer">
 		    <div class="container">
