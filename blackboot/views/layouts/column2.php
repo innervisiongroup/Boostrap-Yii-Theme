@@ -1,7 +1,7 @@
 <?php $this->beginContent('//layouts/main'); ?>
-      <div class="row">
-        <div class="col-md-3">
-         <?php
+<div class="row">
+    <div class="col-md-3">
+        <?php
 			$this->beginWidget('zii.widgets.CPortlet', array(
 				'title'=>'Operations',
 			));
@@ -11,7 +11,7 @@
 			));
 			$this->endWidget();
 		?>
-		</div><!-- sidebar span3 -->
+	</div><!-- sidebar span3 -->
 
 	<div class="col-md-9">
 		<div class="main">
