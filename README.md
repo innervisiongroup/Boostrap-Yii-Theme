@@ -1,11 +1,11 @@
-Black bootstrap - a Yii theme based on Bootstrap 3 
-==================================================
+Yii Bootstrap 3 Theme
+=====================
 
-<a href="https://github.com/innovativenachi/black-bootstrap">This is a fork of the initial theme</a>. I just updated the theme so it uses bootstrap 3 instead of 2.
+<a href="https://github.com/innovativenachi/black-bootstrap">This is a fork of the initial theme</a>. I just updated the theme so it uses bootstrap 3 instead of 2, and rolled back to basic boostrap theme.
 
 A YII bootstrap theme has both one column and two column layout, unique style for breadcrumbs, automatic widget style for the crud view.
 
-The screenshot and theme score was available <a href="http://yii.themefactory.net/theme/133/black-bootstrap" target="_blank">here</a> (bootstrap 2, so not the actual look of this theme.)
+The screenshot and theme score was available <a href="http://yii.themefactory.net/theme/133/black-bootstrap" target="_blank">here</a> (bootstrap 2, so not the actual theme of this repo.)
 
 Steps
 -----
@@ -20,6 +20,6 @@ return array(
   --------------------
   --------------------
   //installing the theme
-	'theme'=>'blackboot',
+	'theme'=>'bootstrap3-theme',
   );
 </pre>  
