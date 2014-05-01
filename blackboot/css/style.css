@@ -11,7 +11,9 @@ body {
 	padding-top: 40px;
 
   }
-
+header{
+  height: 50px;
+}
 div.cont {
 	background:url(../img/tiny_grid.png) repeat 0 0;
 	height:100%;
